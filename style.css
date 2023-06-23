@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.btn{
+    width: 150px;
+    height: 150px;
+}
+
+.container{
+    
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    padding: 50px;
+}
+.hero-section{
+    margin-top: 40px;
+    display: flex;
+    margin-left: 440px;
+}
+
+/* .player1{
+    margin-left: 50px;
+} */
+
+.player2{
+    margin-left: 540px;
+} 
+
+.red{
+    background-color: brown;
+}
