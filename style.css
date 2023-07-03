@@ -11,15 +11,14 @@
 }
 
 .container{
-    
     display: flex;
     flex-direction: column;
     /* justify-content: center; */
     align-items: center;
-    padding: 50px;
+    padding: 30px;
 }
 .hero-section{
-    margin-top: 40px;
+    /* margin-top: 10px; */
     display: flex;
     margin-left: 440px;
     font-size: x-large;
@@ -33,9 +32,9 @@
     margin-left: 540px;
 } 
 
-.red{
+/* .red{
     background-color: brown;
-}
+} */
 .won1, .won2 , .loss2, .loss1{
     margin: 3px;
     /* font-size: 20px; */
